@@ -1,4 +1,4 @@
-Environment Watcher is a services for handling stuck automation processes
+Environment Watcher - service for handling stuck automation processes
 ======
 
 Implemented via maven, jersey, apache-commons-exec.
